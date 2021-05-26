@@ -1,2 +1,4 @@
 # hello-word
-whatever
+
+Hello word.
+This is github 101
